@@ -1,0 +1,51 @@
+#main-element{
+  background-image:url("https://img.freepik.com/free-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=2000");
+  background-size:cover;
+  text-align:center;
+  padding-top:20px;
+  max-width:100%;
+  padding-left:100px;
+  padding-right:100px;
+}
+#title{
+  font-family:"Roboto";
+  color:#ffffff;
+}
+#description{
+  font-family:"Roboto";
+  color:#ffffff;
+}
+#form-container{
+  background-color:#2E4053;
+  padding :20px;
+}
+#name-label{
+  font-family:"Roboto";
+  color:#ffffff;
+  text-align:left;
+
+}
+#email-label{
+  font-family:"Roboto";
+  color:#ffffff;
+  text-align:left;
+
+}
+#number-label{
+  font-family:"Roboto";
+  color:#ffffff;
+  text-align:left;
+}
+#survey-form{
+  display:flex;
+  flex-direction:column;
+}
+#dropdown-element{
+  font-family:"Roboto";
+  color:#ffffff;
+  text-align:left;
+}
+#radio-element{
+  text-align:left;
+  color:#ffffff;
+}

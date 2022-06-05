@@ -1,0 +1,51 @@
+#main{
+  text-align:center;
+  background-color:#99A3A4;
+  background-size:cover;
+  
+
+}
+#img-div{
+  background-color:#ffffff;
+  padding:20px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+#image{
+  height:auto;
+  max-width:100%;
+  display:block;
+}
+#title{
+  font-family:"Roboto"
+}
+#img-caption{
+  font-family:"Roboto"
+}
+#img-div{
+  font-family:"Roboto"
+}
+#tribute-info{
+  font-family:"Roboto";
+  text-align:left;
+  padding:15px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+#list-element{
+  max-width:500px;
+  align-self:center;
+
+}
+#list-heading{
+  text-align:center;
+}
+#year-element{
+  color: black;
+  font-weight: bold;
+}
+
